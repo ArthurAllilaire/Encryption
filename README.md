@@ -17,6 +17,7 @@ This is a substitution cypher. For every letter passed in it is replaced by one 
 # Possible Improvements
 ## User friendliness
 The main improvement would be to get the ability to set the parameters for the engine through a GUI instead of having to go into the code. Also have the ability to set the parameters to decode messages from a different session, currently not possible as everything is randomly generated every time the program is run.
+Might add the GUI as a part of my site.
 
 ## Key transimission
 The main flaw with this encryption is that the key has to be transmitted to whoever wants to decrypt the message, and the key is also quite long. Would need to implement a public and private key for this to be a viable communication encryption engine.
